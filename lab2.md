@@ -57,13 +57,20 @@
 ## Завдання для попередньої підготовки
 
 ### Glossary of Basic English Terms
-CLI (Command Line Interface) — a text-based interface that allows the user to enter commands to control the operating system.  
-Terminal — a program that provides access to the command line in a graphical Linux environment.  
-Virtual Terminal — a text-based Linux console that works independently of the graphical interface and is used for logging into the system and executing commands.  
-Kernel — the core of the operating system that manages memory, CPU, devices, and the execution of applications.  
-Application — a software program that performs specific tasks and uses system resources provided by the kernel.  
-Process — a running instance of a program that is managed and controlled by the operating system kernel.  
-GUI (Graphical User Interface) — a graphical user interface that allows users to interact with the system using windows, menus, and buttons.
+
+**CLI (Command Line Interface)** — a text-based interface that allows the user to enter commands to control the operating system.  
+
+**Terminal** — a program that provides access to the command line in a graphical Linux environment.  
+
+**Virtual Terminal** — a text-based Linux console that works independently of the graphical interface and is used for logging into the system and executing commands.  
+
+**Kernel** — the core of the operating system that manages memory, CPU, devices, and the execution of applications.  
+
+**Application** — a software program that performs specific tasks and uses system resources provided by the kernel.  
+
+**Process** — a running instance of a program that is managed and controlled by the operating system kernel. 
+
+**GUI (Graphical User Interface)** — a graphical user interface that allows users to interact with the system using windows, menus, and buttons.
 
 ---
 
