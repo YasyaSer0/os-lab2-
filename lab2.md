@@ -183,12 +183,7 @@ Bourne shell є однією з перших оболонок Unix і має б�
 
 ---
 
-## Висновок (UA)
-Під час лабораторної роботи №2 я ознайомилася з інтерфейсом та базовими можливостями операційної системи Linux. У ході роботи було розглянуто графічне середовище GNOME: структуру робочого простору користувача, режим Activities, панель швидкого доступу (Dock), глобальний пошук, а також роботу з декількома робочими столами (workspaces). Також я дослідила різні способи запуску програм і варіанти завершення роботи системи у графічному інтерфейсі.
-
-Окремо я розглянула мобільну операційну систему iOS на прикладі iPhone 17 Pro: головний екран, меню налаштувань, використання комбінацій кнопок для швидких дій та особливості керування живленням. Виконання лабораторної роботи допомогло краще зрозуміти принципи роботи сучасних ОС, їх інтерфейсів і способів взаємодії з користувачем, а також отримати практичні навички роботи з Linux у віртуальному середовищі.
-
-## Conclusion (EN)
+## Conclusion 
 During Laboratory Work No. 2, I became familiar with the interface and basic features of the Linux operating system. In the course of the work, the GNOME graphical environment was studied, including the structure of the user workspace, the Activities menu, the quick access panel, search functionality, and workspaces. Different ways of launching applications and options for system shutdown were also explored.
 
 In addition, I reviewed the mobile operating system iOS using the iPhone 17 Pro as an example, studied the main menu, system settings, keyboard shortcuts, and power management features. This laboratory work helped me better understand the principles of modern operating systems, their user interfaces, and interaction methods, as well as gain practical experience working with Linux in a virtual environment.
